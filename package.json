@@ -4,5 +4,9 @@
   "description": "A URL shortener application for the purposes of learning express, node and MongoDB",
   "main": "index.js",
   "repository": "https://github.com/gohdaniel15/node-url-shortener.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  }
 }
